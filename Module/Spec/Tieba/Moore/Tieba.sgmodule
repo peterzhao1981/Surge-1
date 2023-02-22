@@ -1,6 +1,5 @@
 #!name=贴吧净化
 #!desc=贴吧官方App净化
-#!system=ios
 
 [Rule]
 RULE-SET,https://raw.githubusercontent.com/app2smile/rules/master/rule/tieba-ad.list,REJECT-DROP
